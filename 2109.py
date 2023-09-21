@@ -1,14 +1,14 @@
-def test(a):
-    print(a * 10)
+# def test(a):
+#     print(a * 10)
 
-test(4)
+# test(4)
 
-def myFunc(b):
-    print(b * b)
+# def myFunc(b):
+#     print(b * b)
 
-myFunc(5)
+# myFunc(5)
 
-def myName(name):
-    print(name)
+# def myName(name):
+#     print(name)
 
-myName("Javohir")
+# myName("Javohir")
